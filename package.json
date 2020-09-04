@@ -91,7 +91,7 @@
     "mousetrap": "^1.6.2",
     "node-fetch": "^2.1.2",
     "outer-product": "0.0.4",
-    "papaparse": "^4.3.5",
+    "papaparse": "^5.2.0",
     "prettyjson": "^1.2.1",
     "prop-types": "^15.6.0",
     "query-string": "^4.2.3",
