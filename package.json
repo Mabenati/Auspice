@@ -87,7 +87,7 @@
     "leaflet-gesture-handling": "^1.1.8",
     "linspace": "^1.0.0",
     "lodash": "^4.17.15",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "mousetrap": "^1.6.2",
     "node-fetch": "^2.1.2",
     "outer-product": "0.0.4",
